@@ -1,0 +1,4 @@
+displayName = Dae's Better Server List
+author = DaeCatt
+version = 0.1
+modReferences = DaeLib

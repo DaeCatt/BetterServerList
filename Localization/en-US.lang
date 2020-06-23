@@ -1,0 +1,24 @@
+# Server List
+UIServerList.Label = Join Server
+UIServerList.AddServer = Connect
+
+# Server List Item
+UIServerListItem.Connect = Connect to Server
+UIServerListItem.Edit = Edit Server
+UIServerListItem.Remove = Remove Server
+UIServerListItem.AddressHidden = Address Hidden
+
+# Server Editor
+UIServerEditor.NameLabel = Name
+UIServerEditor.AddressLabel = Address
+UIServerEditor.PortLabel = Port
+UIServerEditor.PasswordLabel = Password
+UIServerEditor.HideAddressLabel = Hide Address
+
+UIServerEditor.Connect = Connect
+UIServerEditor.Save = Save
+UIServerEditor.SaveAndConnect = Save & Connect
+
+# Password Prompt
+UIPasswordPrompt.PasswordLabel = Password
+UIPasswordPrompt.RememberPasswordLabel = Remember Password
